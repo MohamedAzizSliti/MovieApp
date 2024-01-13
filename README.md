@@ -1,17 +1,15 @@
-# movie_app
+# MovieApp
 
-A new Flutter project.
+MovieApp is a Flutter-based mobile application that leverages The Movie Database (TMDb) API to provide users with information about trending movies, top-rated movies, and upcoming releases. This app is designed to offer an engaging and user-friendly interface for discovering the latest and most popular movies.
 
-## Getting Started
+# Features
+  Trending Movies: Explore the latest trending movies, keeping you updated on what's popular in the film industry.
+  
+  Top-Rated Movies: Discover and access a curated list of top-rated movies, ensuring you find high-quality content.
+  
+  Upcoming Releases: Stay ahead of the curve by getting information about upcoming movie releases, so you can plan your watchlist.
+# Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# MovieApp" 
+![image](https://github.com/MohamedAzizSliti/MovieApp/assets/60355814/3438ecef-db60-4c78-a688-7b053d221cd2)
+![image](https://github.com/MohamedAzizSliti/MovieApp/assets/60355814/f9ec80d3-27d6-42b5-8335-76414711e89f)
